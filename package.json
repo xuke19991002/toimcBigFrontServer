@@ -31,7 +31,7 @@
     "koa-static": "^5.0.0",
     "moment": "^2.27.0",
     "mongoose": "^5.9.20",
-    "nodemailer": "^6.4.10",
+    "nodemailer": "^6.4.16",
     "redis": "^3.0.2",
     "saslprep": "^1.0.3",
     "svg-captcha": "^1.4.0"
